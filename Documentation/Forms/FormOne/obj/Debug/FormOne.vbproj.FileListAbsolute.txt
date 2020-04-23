@@ -1,0 +1,16 @@
+C:\Users\amirh\source\repos\FormOne\FormOne\bin\Debug\FormOne.exe.config
+C:\Users\amirh\source\repos\FormOne\FormOne\bin\Debug\FormOne.exe
+C:\Users\amirh\source\repos\FormOne\FormOne\bin\Debug\FormOne.pdb
+C:\Users\amirh\source\repos\FormOne\FormOne\bin\Debug\FormOne.xml
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.vbprojAssemblyReference.cache
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.Form1.resources
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.Form2.resources
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.Resources.resources
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.vbproj.GenerateResource.cache
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.vbproj.CoreCompileInputs.cache
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.exe
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.xml
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.pdb
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.Form3.resources
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.Form4.resources
+C:\Users\amirh\source\repos\FormOne\FormOne\obj\Debug\FormOne.Form5.resources
