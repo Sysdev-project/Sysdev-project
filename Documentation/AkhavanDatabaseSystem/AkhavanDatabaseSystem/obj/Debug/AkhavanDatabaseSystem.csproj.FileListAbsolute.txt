@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\bin\Debug\AkhavanDatabaseSystem.exe.config
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\bin\Debug\AkhavanDatabaseSystem.exe
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\bin\Debug\AkhavanDatabaseSystem.pdb
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.Properties.Resources.resources
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.exe
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.pdb
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.LogInUserControl.resources
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.SystemForm.resources
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.HomeUserControl.resources
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.LogInForm.resources
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.InventoryUserControl.resources
+C:\Users\User\source\repos\AkhavanDatabaseSystem\AkhavanDatabaseSystem\obj\Debug\AkhavanDatabaseSystem.ReportsUserControl.resources
