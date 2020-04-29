@@ -76,6 +76,36 @@
     <Compile Include="ReportsUserControl.Designer.cs">
       <DependentUpon>ReportsUserControl.cs</DependentUpon>
     </Compile>
+    <Compile Include="Reports\BestSellers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Reports\BestSellers.Designer.cs">
+      <DependentUpon>BestSellers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ProductQuantityAlert.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Reports\ProductQuantityAlert.Designer.cs">
+      <DependentUpon>ProductQuantityAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\SalesReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Reports\SalesReport.Designer.cs">
+      <DependentUpon>SalesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\StaffReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Reports\StaffReport.Designer.cs">
+      <DependentUpon>StaffReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\StoreStockChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Reports\StoreStockChart.Designer.cs">
+      <DependentUpon>StoreStockChart.cs</DependentUpon>
+    </Compile>
     <Compile Include="SystemForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -101,6 +131,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ReportsUserControl.resx">
       <DependentUpon>ReportsUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\BestSellers.resx">
+      <DependentUpon>BestSellers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ProductQuantityAlert.resx">
+      <DependentUpon>ProductQuantityAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\SalesReport.resx">
+      <DependentUpon>SalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\StaffReport.resx">
+      <DependentUpon>StaffReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\StoreStockChart.resx">
+      <DependentUpon>StoreStockChart.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SystemForm.resx">
       <DependentUpon>SystemForm.cs</DependentUpon>
